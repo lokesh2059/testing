@@ -1,4 +1,0 @@
-@Library('salesforce') _
-
-saleforce(){
-};
